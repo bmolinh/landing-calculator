@@ -2,6 +2,6 @@
 
 My initial description
 
-## other description
+## my other description
 
 My other description
